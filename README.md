@@ -21,8 +21,8 @@ Technology stack:
 Vehicle data example:
 
 Vehicle = {
-  'licensePlate': '57689 LKK'
-  'cv': 250
+  'licensePlate': '57689 LKK',
+  'cv': 250,
   'color': 'red'
 }
 
