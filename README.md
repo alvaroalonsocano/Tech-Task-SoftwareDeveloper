@@ -9,7 +9,7 @@ Technology stack:
 
 - Login view with Auth0 that allows to create new users, but not admins.
 - Main view with a table that shows the vehicles and a paginator. In case that user's is an admin, Edit and Delete buttons must been show, but normal user only get vehicles data.
-- Dashboard view. A view with a bar graph that count how many elements of every vehicle we can find on the database. ONLY Admin must have acces to this view.
+- Dashboard view. A view with a bar graph that count how many elements of every vehicle we can find on the database. ONLY Admin must have access to this view.
 - Admin/User profile view with just name and role.
 
 2-Create ANode/Express API with GET/POST/PUT/DELETE methods that get the data from a MongoDB.
