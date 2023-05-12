@@ -1,8 +1,8 @@
 # Tech-Task-SoftwareDeveloper
 
 Technology stack:
--React ^18
--Node ^18/Express ^4.18
+-Angular ^15
+-Node ^16/Express ^4.18
 -MongoDB (use atlas free tier to ease the task)
 
 1-Create a vehicle's monitoring system that allows admin to post,edit, create and delete different vehicles (cars, trucks and boats). The app will have at least 4 views.
